@@ -1,0 +1,676 @@
+{
+    "AUTO_ATTACK_CORDS": {
+        "adrian_senthia_a1": null,
+        "adrian_senthia_c3": null,
+        "plechito_ramadan2023_dungeon": null,
+        "senthia_update_natura": null
+    },
+    "DEWS_LIST": [
+        [
+            71044,
+            "60",
+            0
+        ],
+        [
+            71045,
+            "60",
+            0
+        ],
+        [
+            71030,
+            "60",
+            0
+        ],
+        [
+            71027,
+            "60",
+            0
+        ],
+        [
+            71028,
+            "60",
+            0
+        ],
+        [
+            71029,
+            "60",
+            0
+        ],
+        [
+            50825,
+            "60",
+            0
+        ],
+        [
+            50821,
+            "60",
+            0
+        ],
+        [
+            50822,
+            "60",
+            0
+        ],
+        [
+            50823,
+            "60",
+            0
+        ],
+        [
+            50824,
+            "60",
+            0
+        ],
+        [
+            50817,
+            "60",
+            0
+        ],
+        [
+            50813,
+            "60",
+            0
+        ],
+        [
+            50814,
+            "60",
+            0
+        ],
+        [
+            50818,
+            "60",
+            0
+        ]
+    ],
+    "FARMBOT_LIST": null,
+    "FARMBOT_PATH": {
+        "adrian_senthia_a1": null,
+        "adrian_senthia_c3": null,
+        "plechito_ramadan2023_dungeon": null,
+        "senthia_update_natura": [
+            [
+                127567.632812,
+                74250.4296875
+            ]
+        ]
+    },
+    "FARMBOT_PRIORITY": [
+        0,
+        1,
+        2
+    ],
+    "GM_LIST": null,
+    "ITEMS_TO_SELL": null,
+    "KEYBOARD_CLICKER": [
+        [
+            0,
+            "600",
+            null
+        ],
+        [
+            0,
+            "600",
+            null
+        ],
+        [
+            0,
+            "600",
+            null
+        ],
+        [
+            0,
+            "600",
+            null
+        ],
+        [
+            0,
+            "600",
+            null
+        ],
+        [
+            0,
+            "600",
+            null
+        ],
+        [
+            0,
+            "600",
+            null
+        ],
+        [
+            0,
+            "600",
+            null
+        ],
+        [
+            0,
+            "600",
+            null
+        ],
+        [
+            0,
+            "600",
+            null
+        ]
+    ],
+    "OTHER_DETECTOR_LIST": null,
+    "PICKUP_LIST": null,
+    "PLAYER_LIST": null,
+    "QUEST_LIST": [
+        [
+            "SendChatPacket",
+            [
+                "/regen_warp 33 8038 558"
+            ],
+            11.13719029999993,
+            "senthia_update_natura"
+        ],
+        [
+            "SendChatPacket",
+            [
+                "/regen_warp 34 8038 558"
+            ],
+            21.53151909999997,
+            "senthia_update_natura"
+        ],
+        [
+            "SendChatPacket",
+            [
+                "/regen_warp 35 8038 558"
+            ],
+            33.561254799999915,
+            "senthia_update_natura"
+        ],
+        [
+            "SendChatPacket",
+            [
+                "/regen_warp 36 8038 558"
+            ],
+            45.04581569999982,
+            "senthia_update_natura"
+        ],
+        [
+            "SendChatPacket",
+            [
+                "/regen_warp 37 8038 558"
+            ],
+            55.47296389999974,
+            "senthia_update_natura"
+        ],
+        [
+            "SendChatPacket",
+            [
+                "/regen_warp 38 8038 558"
+            ],
+            66.27959749999991,
+            "senthia_update_natura"
+        ],
+        [
+            "SendChatPacket",
+            [
+                "/regen_warp 39 8038 558"
+            ],
+            77.4181509,
+            "senthia_update_natura"
+        ],
+        [
+            "SendChatPacket",
+            [
+                "/regen_warp 40 8038 558"
+            ],
+            88.42267469999979,
+            "senthia_update_natura"
+        ],
+        [
+            "SendChatPacket",
+            [
+                "/regen_warp 31 8038 558"
+            ],
+            100.96288019999974,
+            "senthia_update_natura"
+        ],
+        [
+            "SendChatPacket",
+            [
+                "/regen_warp 21 3590 558"
+            ],
+            112.84335549999969,
+            "senthia_update_natura"
+        ],
+        [
+            "SendChatPacket",
+            [
+                "/regen_warp 22 3590 558"
+            ],
+            120.43376049999961,
+            "senthia_update_natura"
+        ],
+        [
+            "SendChatPacket",
+            [
+                "/regen_warp 23 3590 558"
+            ],
+            132.42817639999976,
+            "senthia_update_natura"
+        ],
+        [
+            "SendChatPacket",
+            [
+                "/get_player_lang Michu90"
+            ],
+            135.88083589999997,
+            "senthia_update_natura"
+        ],
+        [
+            "SendChatPacket",
+            [
+                "/regen_warp 24 3590 558"
+            ],
+            142.27806109999983,
+            "senthia_update_natura"
+        ],
+        [
+            "SendChatPacket",
+            [
+                "/regen_warp 25 3590 558"
+            ],
+            151.5692423999999,
+            "senthia_update_natura"
+        ],
+        [
+            "SendChatPacket",
+            [
+                "/regen_warp 26 3590 558"
+            ],
+            160.4786766999996,
+            "senthia_update_natura"
+        ],
+        [
+            "SendChatPacket",
+            [
+                "/regen_warp 27 3590 558"
+            ],
+            168.6295012999999,
+            "senthia_update_natura"
+        ],
+        [
+            "SendChatPacket",
+            [
+                "/regen_warp 28 3590 558"
+            ],
+            180.88939289999962,
+            "senthia_update_natura"
+        ],
+        [
+            "SendChatPacket",
+            [
+                "/regen_warp 29 3590 558"
+            ],
+            189.78321549999964,
+            "senthia_update_natura"
+        ],
+        [
+            "SendChatPacket",
+            [
+                "/regen_warp 30 3590 558"
+            ],
+            199.6985480999997,
+            "senthia_update_natura"
+        ]
+    ],
+    "SAVED_POS": {
+        "0": [
+            0,
+            0,
+            "0"
+        ],
+        "1": [
+            0,
+            0,
+            "1"
+        ],
+        "10": [
+            0,
+            0,
+            "10"
+        ],
+        "11": [
+            0,
+            0,
+            "11"
+        ],
+        "12": [
+            0,
+            0,
+            "12"
+        ],
+        "13": [
+            0,
+            0,
+            "13"
+        ],
+        "14": [
+            0,
+            0,
+            "14"
+        ],
+        "2": [
+            0,
+            0,
+            "2"
+        ],
+        "3": [
+            0,
+            0,
+            "3"
+        ],
+        "4": [
+            0,
+            0,
+            "4"
+        ],
+        "5": [
+            0,
+            0,
+            "5"
+        ],
+        "6": [
+            0,
+            0,
+            "6"
+        ],
+        "7": [
+            0,
+            0,
+            "7"
+        ],
+        "8": [
+            0,
+            0,
+            "8"
+        ],
+        "9": [
+            0,
+            0,
+            "9"
+        ]
+    },
+    "WAITHACK_LIST": null,
+    "buttons": {
+        "Ataknacel": 0,
+        "Ataknacel2": 0,
+        "Ataknacel3": 0,
+        "AttackSpeed": 0,
+        "AttackSpeed2": 0,
+        "AutoAtak": 0,
+        "AutoAtak2": 0,
+        "AutoClose": 0,
+        "AutoClose2": 0,
+        "AutoPoty": 0,
+        "AutoPoty2": 0,
+        "Autologin": 0,
+        "Autologin2": 0,
+        "Boost": 0,
+        "Boost2": 0,
+        "BuffBot": 0,
+        "BuffBot2": 0,
+        "BuffSkill0": 0,
+        "BuffSkill1": 0,
+        "BuffSkill2": 0,
+        "Dopalacze": 0,
+        "Dopalacze2": 0,
+        "Farmbot": 1,
+        "Farmbot2": 1,
+        "FarmbotDrawPath": 0,
+        "FarmbotRecord": 0,
+        "FishBot": 0,
+        "FishBot2": 0,
+        "FishBotRecord": 0,
+        "InvMene2": 0,
+        "InvMene22": 0,
+        "KU": 0,
+        "KU2": 0,
+        "Mobber": 0,
+        "Mobber2": 0,
+        "MovmentSpeed": 0,
+        "MovmentSpeed2": 0,
+        "OddawajExp": 0,
+        "OddawajExp2": 0,
+        "Otwieracz": 0,
+        "Otwieracz2": 0,
+        "Pickup": 0,
+        "Pickup2": 0,
+        "Quest2": 1,
+        "QuestRecord": 0,
+        "QuestTP": 0,
+        "QuestTP2": 0,
+        "Skille": 0,
+        "Skille2": 0,
+        "SpamBot": 0,
+        "SpamBot2": 0,
+        "TabDetectors": 0,
+        "TabFarming": 0,
+        "TabGenerals": 0,
+        "TabSettings": 1,
+        "TabUtility": 0,
+        "Waithack": 0,
+        "Waithack2": 0,
+        "Waithack3": 0,
+        "WaithackDrawPath": 0,
+        "Wstawaj": 1,
+        "Wstawaj2": 1,
+        "WykrBoss": 0,
+        "WykrBoss2": 0,
+        "WykrBossDrawArrow": 0,
+        "WykrChat": 0,
+        "WykrDead": 0,
+        "WykrGM": 1,
+        "WykrGM2": 1,
+        "WykrGracz": 0,
+        "WykrGracz2": 0,
+        "WykrInne": 0,
+        "WykrInne2": 0,
+        "WykrInneDrawArrow": 0,
+        "WykrMetin": 0,
+        "WykrMetin2": 0,
+        "WykrMetinDrawArrow": 0,
+        "WykrPW": 1,
+        "WykrPurge": 0,
+        "WykrRuda": 0,
+        "WykrRuda2": 0,
+        "WykrRudaDrawArrow": 0,
+        "WykrTP": 1,
+        "ZapisPozycji_pf": 0,
+        "aok": 0,
+        "auto_poly": 1,
+        "exit_checkbox": 1,
+        "global_settings": 0,
+        "nok": 0,
+        "wall": 1
+    },
+    "checkboxes": {
+        "Ataknacel": "0",
+        "AutoAtak": "000",
+        "AutoCHCheck": "000",
+        "AutoCHCheck2": "0",
+        "AutoClose": "00",
+        "BuffBotAnim": "00",
+        "Farmbot": "01100",
+        "Farmbot2": "00000000",
+        "Farmbot3": "0",
+        "Farmbot4": "0000",
+        "Farmbot5": "0",
+        "FishBotCheck": "00",
+        "InvMene": "0000",
+        "InvMeneAllowed": "00",
+        "InvMeneAllowed2": "0000",
+        "InvMenePages": "00000",
+        "InvMeneType": "00",
+        "MapaTP": "00",
+        "Mobber": "1000",
+        "Mobber_alt": "1000",
+        "PickupIgnore": "00",
+        "PickupItemAfterKill": "0",
+        "PickupMove": "000",
+        "PickupOwner": "0",
+        "PickupOwner_list": "0",
+        "PickupType": "00",
+        "PickupTypeItem": "000000",
+        "Pogoda": "0000000001",
+        "Skille": "000000",
+        "SkilleAnim": "0",
+        "SkilleType": "0",
+        "SpamBot": "000",
+        "Waithack": "1110",
+        "Waithack2": "0",
+        "Waithack3": "0",
+        "Waithack4": "0",
+        "Wstawaj": "000",
+        "WykrBoss": "100000",
+        "WykrChat": "100000000",
+        "WykrChat2": "00",
+        "WykrDead": "100000000",
+        "WykrGM": "1000000111",
+        "WykrGracz": "100000000",
+        "WykrInne": "100000",
+        "WykrMetin": "100000",
+        "WykrPW": "1000000111",
+        "WykrPurge": "100000000",
+        "WykrRuda": "100000",
+        "WykrTP": "100000111",
+        "aok": "111",
+        "nok": "100",
+        "poly": "00",
+        "wall": "1111111"
+    },
+    "editLines": {
+        "Ataknacel": "0.3",
+        "AttackSpeedVal": "300",
+        "AutoAtak": "1",
+        "AutoAtakMobCount": "5",
+        "AutoAtakMobDistance": "3800",
+        "AutoCHValues": "1,2,3,4",
+        "AutoCHValuesDelay": "0",
+        "AutoCHValuesDelayAll": "300",
+        "AutoCloseCount": "60",
+        "AutoPoty": "99",
+        "AutoPoty2": "99",
+        "AutoPoty3": "99",
+        "AutologinWait": "10",
+        "BonusSwitcherName": "",
+        "BonusSwitcherSaveSett": "",
+        "Boost": "0.01",
+        "BoostDyst": "500",
+        "BuffBot": "15",
+        "BuffBotNick": "Nick",
+        "Farmbot": "0.1",
+        "FarmbotName": "",
+        "FarmbotRange": "3000",
+        "FarmbotRecord": "1",
+        "FarmbotWaitTP": "3",
+        "FarmbotWait_dead_max": "5",
+        "FarmbotWait_dead_min": "3",
+        "FarmbotWait_resp_max": "2",
+        "FarmbotWait_resp_min": "0.5",
+        "FishBot1": "0",
+        "FishBot2": "0",
+        "FishBot3": "0",
+        "FishBot4": "0",
+        "FishBot5": "0",
+        "FishBot6": "0",
+        "FishBot7": "5",
+        "FishBot8": "0",
+        "FishBot9": "0",
+        "InvMene2": "5",
+        "InvMeneMaxSlot": "200",
+        "InvMeneRefine": "9",
+        "InvMeneSearch": "",
+        "InvMeneSearch2": "",
+        "InvMeneiCount": "5",
+        "InvMenepCount": "5",
+        "KU": "0.1",
+        "Mobber": "1",
+        "Mobber_alt": "1",
+        "Mobber_max": "2",
+        "Mobber_max_alt": "2",
+        "Mobber_min_mob": "3",
+        "Mobber_min_mob_alt": "3",
+        "MovmentSpeedVal": "300",
+        "OddawajExp": "0.5",
+        "Otwieracz": "0.1",
+        "Pickup": "0.1",
+        "PickupAfterKill": "5",
+        "PickupNames": "",
+        "PickupRange": "5000",
+        "Quest": "200.0",
+        "SpamBot": "15",
+        "SpamBotText": "",
+        "SpamBot_max": "20",
+        "Waithack": "0.3",
+        "WaithackCount": "99",
+        "WaithackName": "",
+        "WaithackRange": "2000",
+        "WstawajProc": "40",
+        "WstawajWait": "3",
+        "WykrChatText": "",
+        "WykrGMNick": "Nick",
+        "WykrGraczNick": "Nick",
+        "WykrInneName": "",
+        "ZalozGildie": "",
+        "ZapisPozycji": "",
+        "exp_donate_value": "50",
+        "inv_mene_drop": "1",
+        "inv_mene_open": "1",
+        "inv_mene_sell": "1",
+        "nokVal": "1",
+        "settings": "tier1"
+    },
+    "slots": {
+        "AutoPoty": [
+            "None",
+            "None",
+            "None"
+        ],
+        "FishBot": [
+            "None"
+        ],
+        "InvMene": [
+            "None"
+        ],
+        "KU": [
+            "None",
+            "None",
+            "None"
+        ],
+        "Mobber": [
+            "None"
+        ],
+        "Mobber_alt": [
+            "None"
+        ],
+        "Otwieracz": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+        ],
+        "Wstawaj": [
+            "None"
+        ],
+        "poly": [
+            "70150"
+        ]
+    }
+}
